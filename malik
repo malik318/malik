@@ -78,9 +78,9 @@ os.system("clear")
 print  """
 
 \033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m    ♥V♥i♥c♥k♥y♥m♥a♥l♥ i ♥ k
+\033[1;92m    ♥V♥i♥c♥k♥y♥m♥a♥l♥ i ♥k   Updated✔
 
-Updated✔ 
+ 
 \033[1;97m    
 \033[1;92m   
 
