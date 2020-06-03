@@ -78,7 +78,7 @@ os.system("clear")
 print  """
 
 \033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m       VICKY MALIK
+\033[1;92m    ♥V♥i♥c♥k♥y♥m♥a♥l♥ i ♥ k
 
 Updated✔ 
 \033[1;97m    
@@ -107,7 +107,7 @@ jalan("   \033[1;93m Welcome to MALIK Creations ")
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "malik"
-CorrectPassword = "mslik"
+CorrectPassword = "malik"
 
 
 loop = 'true'
